@@ -1,4 +1,3 @@
 # Snake-game
-> This project is about implementing snake game using vanilla javascript (witout any framework) and HTML/CSS
-> You can check the project here :[https://oussama-iia.github.io/Snake-game/](https://oussama-iia.github.io/Snake-game/)
-#screenshots
+- [x] This project is about implementing snake game using vanilla javascript (witout any framework) and HTML/CSS
+- [x] you want to take a look to the project here is the link :[https://oussama-iia.github.io/Snake-game/](https://oussama-iia.github.io/Snake-game/)
