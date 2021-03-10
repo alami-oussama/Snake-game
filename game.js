@@ -15,7 +15,7 @@ let gameOver = false
 
 function main(currentTime) {
     if (gameOver) {
-        if (confirm('You lose. Press ok to restart')) window.location = '#'
+        if (confirm('You lose. Press ok to restart')) window.location = '/'
         return
     }
     window.requestAnimationFrame(main)
